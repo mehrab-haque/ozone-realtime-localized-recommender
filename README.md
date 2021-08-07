@@ -6,9 +6,14 @@ My aim is to provide the recommendation of optimum exposure to sunlight or the u
     * Position of earth relative to sun due to the annual course.
     * Time of the day
     * Corresponding ozone layer depth.
-    * Path of the sunlight-ray across the atmosphere.
+    * Curvature of earth that determines :
+        * Atmospheric depth
+        * Ozone layer altitude
+        * Amopunt of Ozone within the layer
 * Personalized UV tolerance considering :
     * Age 
     * Gender
-    * Color of the skin
-   
+    * Color of the skin 
+## Resources
+* Ozone layer realtime data : https://neo.sci.gsfc.nasa.gov/view.php?datasetId=AURA_OZONE_M
+
