@@ -7,7 +7,7 @@ My aim is to provide the recommendation of optimum exposure to sunlight or the u
     * Time of the day
     * Corresponding ozone layer depth.
     * Path of the sunlight-ray across the atmosphere.
-* Personalized tolerance considering :
+* Personalized UV tolerance considering :
     * Age 
     * Gender
     * Color of the skin
