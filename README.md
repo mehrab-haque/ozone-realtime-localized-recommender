@@ -3,7 +3,7 @@
 My aim is to provide the recommendation of optimum exposure to sunlight or the usage of sunscreen for prolonged exposure in a localized, updated, personalized and calculative way through a publicly accessible user interface.
 ## Determining factors
 * The maximum possible amount of UV present in the sunlight considering :
-    * Position of earth relative to sun due to the annual course.
+    * Position of earth relative to sun due to the annual course. (Sunlight intensity in W/m^2)
     * Time of the day
     * Corresponding ozone layer depth.
     * Curvature of earth that determines :
@@ -15,5 +15,7 @@ My aim is to provide the recommendation of optimum exposure to sunlight or the u
     * Gender
     * Color of the skin 
 ## Resources
-* Ozone layer realtime data : https://neo.sci.gsfc.nasa.gov/view.php?datasetId=AURA_OZONE_M
+* Ozone layer realtime dobson : https://neo.sci.gsfc.nasa.gov/view.php?datasetId=AURA_OZONE_M
+* Atmospheric refraction : https://en.wikipedia.org/wiki/Atmospheric_refraction
+* UV Index Calculator : https://www.epa.gov/sunsafety/calculating-uv-index-0
 
