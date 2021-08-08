@@ -1,4 +1,4 @@
-# Suncreen Realtime Localized Recommender
+# Ozone+UV Based Realtime Localized Recommender
 ## Overview
 My aim is to provide the recommendation of optimum exposure to sunlight (based upon localized ozone layer depletion datasets and other factors) or the usage of sunscreen for prolonged exposure in a localized, updated, personalized and calculative way through a publicly accessible user interface. Also, long term recommendation changes can be analyzed for conclusive outcomes.
 ## Determining factors
